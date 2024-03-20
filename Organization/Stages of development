@@ -1,0 +1,11 @@
+Stages of development:
+1) Simple notebook creating
+1.1) Registration/authorization window
+1.2) Main window
+1.3) New note creating window
+2) Database creating
+2.1) Сreating a user database
+2.2) Сreating the ability to save user records in the database
+3) Visual images
+3.1) Creating the ability to change the font and text size in records
+3.2) Creating the ability to draw (insert pictures) in a record
